@@ -1,0 +1,28 @@
+{
+    "layanan": [
+        {
+            "kategori": "resto",
+            "nama": "bakmi",
+            "deskripsi": "Mbah Mangoen adalah restoran Bakmi Jawa dan ayam goreng yang menyajikan hidangan seperti bakmi goreng, bakmi godhog, nasi goreng, magelangan, rica-rica ayam, dan ayam kampung goreng.",
+            "gambar": "bakmi.jpg"
+        },
+        {
+            "kategori": "resto",
+            "nama": "Gudeg",
+            "deskripsi": "Gudeg Yu Djum Pusat merupakan dapur utama sekaligus warung makan kuliner tradisional Yogyakarta.",
+            "gambar": "gudeg.jpg"
+        },
+        {
+            "kategori": "resto",
+            "nama": "Kopijos",
+            "deskripsi": "If you visit the city of Yogyakarta, time to stop by and try Kopi Joss. In the North Station or Station Tugu Yogyakarta, many found angkringan which provide the main menu Kopi Joss.",
+            "gambar": "kopijoss.jpg"
+        },
+        {
+            "kategori": "resto",
+            "nama": "satepakpong",
+            "deskripsi": ": Sate Klathak adalah sate kambing yang dibakar dengan menggunakan tusuk sate dari besi seperti besi jeruji sepeda motor.",
+            "gambar": "sate pak pong.jpg"
+        }
+    ]
+}
