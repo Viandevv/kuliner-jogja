@@ -1,4 +1,4 @@
-# Kuliner Jogja
+# repo baru di : https://github.com/almira-haswinitha/Kuliner-Jogja-AppMobile
 UTS Mata Kuliah PRPL
 
 Kelas : E
